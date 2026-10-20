@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "version": "1.0.0",
+  "templates": [
+    {
+      "id": "social",
+      "version": "1.0.0",
+      "sceneSchema": 1,
+      "title": "A little inspiration",
+      "path": "packs/social-1.0.0.mycreate",
+      "preview": "previews/social.png",
+      "sha256": "220220b20850e9faab0a48a6aa97ac1262f5f6ae4773d2a9d187bb1d7e9080da",
+      "size": 118868,
+      "elements": 8,
+      "name": "CC0-1.0",
+      "author": "One Workspace Studio",
+      "attribution": "Original starter design by One Workspace Studio",
+      "categories": [
+        "social"
+      ],
+      "keywords": [
+        "blue",
+        "minimal",
+        "editable"
+      ]
+    },
+    {
+      "id": "invitation",
+      "version": "1.0.0",
+      "sceneSchema": 1,
+      "title": "An evening together",
+      "path": "packs/invitation-1.0.0.mycreate",
+      "preview": "previews/invitation.png",
+      "sha256": "4b89edef9b6824ed02b7d41f458dfe9d705f505bd0926811596e7ffa9cfb50c7",
+      "size": 135241,
+      "elements": 8,
+      "name": "CC0-1.0",
+      "author": "One Workspace Studio",
+      "attribution": "Original starter design by One Workspace Studio",
+      "categories": [
+        "invitation"
+      ],
+      "keywords": [
+        "blue",
+        "minimal",
+        "editable"
+      ]
+    },
+    {
+      "id": "flyer",
+      "version": "1.0.0",
+      "sceneSchema": 1,
+      "title": "Make something good",
+      "path": "packs/flyer-1.0.0.mycreate",
+      "preview": "previews/flyer.png",
+      "sha256": "3486bd6ec8a152579364dec356527bfbd79ad9909a5fa219add09fa6213c9227",
+      "size": 124397,
+      "elements": 8,
+      "name": "CC0-1.0",
+      "author": "One Workspace Studio",
+      "attribution": "Original starter design by One Workspace Studio",
+      "categories": [
+        "flyer"
+      ],
+      "keywords": [
+        "blue",
+        "minimal",
+        "editable"
+      ]
+    }
+  ]
+}
